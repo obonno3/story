@@ -42,4 +42,4 @@ function result() {
   story.style.visibility = "visible";
 }
 
-document.querySelector("html").style.backgroundColor = "red";
+// document.querySelector("html").style.backgroundColor = "red";
